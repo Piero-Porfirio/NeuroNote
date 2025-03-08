@@ -67,5 +67,5 @@ To experience the full potential of NeuroNote, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/NeuroNote.git
+   git clone https://github.com/piero-porfirio/NeuroNote.git
 
